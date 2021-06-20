@@ -6,7 +6,7 @@
 [![Twitter: sid_verma32](https://img.shields.io/twitter/follow/sid_verma32?style=social)](https://twitter.com/sid_verma32)
 [![Linkedin: sidverma12](https://img.shields.io/badge/-sidverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidverma12/)](https://www.linkedin.com/in/sidverma12/)
 [![GitHub sidverma32](https://img.shields.io/github/followers/sidverma32?label=follow&style=social)](https://github.com/sidverma32)
-
+![](https://visitor-badge.glitch.me/badge?page_id=sidverma32.sidverma32)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
