@@ -1,5 +1,5 @@
 <h2> Hi, I'm Siddharth Verma! <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/RiKyIqMC4vVGB9vkxl/giphy.gif" width="230">
 <p><em>Web Engineer - II at <a href="https://www.oyorooms.com/">OYO Rooms</a></br>OPens Source Contributor at <a href="https://github.com/facebook/react-native/">React-Native</a> , <a href="https://github.com/grafana/grafana">Grafana Labs</a> , <a href="https://github.com/opencollective/opencollective">Open Collective</a>
 </em></p>
 
