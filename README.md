@@ -5,6 +5,7 @@
 
 [![Twitter: sid_verma32](https://img.shields.io/twitter/follow/sid_verma32?style=social)](https://twitter.com/sid_verma32)
 [![GitHub sidverma32](https://img.shields.io/github/followers/sidverma32?label=follow&style=social)](https://github.com/sidverma32)
+[![Youtube: AIC](https://img.shields.io/youtube/follow/sid_verma32?style=social)](https://www.youtube.com/channel/UCuUmMefK5oUVRPCHPkKBKwg?sub_confirmation=1)
 ![Count](https://visitor-badge.glitch.me/badge?page_id=sidverma32.sidverma32)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
