@@ -15,13 +15,12 @@
 ```javascript
 const sidverma = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C , C++],
-  tools: [React, Redux, Node, React-Native, Next Js , Express, Webpack4, Babel, Material-UI, Storybook, Styled-Components, Docker, Jenkins , AWS , Kubernetes],
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, React-Native, Next Js , Electron Js, Express, Webpack4, Babel, Material-UI, Storybook, Styled-Components, Docker, Jenkins , AWS , Kubernetes],
   architecture: ["microservices", "monolithic", "design system pattern"],
   UI browser performance tools: React Dev Tools, Google Lighthouse , Webpagetest,
   Monitoring Dashboard: Grafana , Kibana, SonarQube , Firebase Analytics, APM,
   Caching Server: Akamai Server Caching,
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
