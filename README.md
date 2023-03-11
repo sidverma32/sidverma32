@@ -3,8 +3,8 @@
 <p><em>SDE-II (FRONTEND) ENGINEER at <a href="https://www.1mg.com/">TATA 1 MG</a></br>Open Source Contributor at <a href="https://github.com/facebook/react-native/">React-Native</a> , <a href="https://github.com/grafana/grafana">Grafana Labs</a> , <a href="https://github.com/opencollective/opencollective">Open Collective</a>, <a href="https://developer.mozilla.org/en-US/">Mozilla (MDN)</a>
 </em></p>
 
-[![Linkedin: sidverma32](https://img.shields.io/linkedin/follow/sidverma32?style=social)](https://www.linkedin.com/in/sidverma32/)
-[![Twitter: sid_verma32](https://img.shields.io/twitter/follow/sid_verma32?style=social)](https://twitter.com/sid_verma32)
+[![Linkedin: sidverma32](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidverma32/)
+[![Twitter: sid_verma32](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sid_verma32)
 [![GitHub sidverma32](https://img.shields.io/github/followers/sidverma32?label=follow&style=social)](https://github.com/sidverma32)
 <h2> Open Source Contribution Badges:</h2>
 
