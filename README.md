@@ -1,6 +1,6 @@
 <h2> Hi, I'm Siddharth Verma! <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/RiKyIqMC4vVGB9vkxl/giphy.gif" width="230">
-<p><em>SDE-III (FRONTEND) ENGINEER at <a href="https://www.1mg.com/">TATA 1 MG</a></br>Open Source Contributor at <a href="https://github.com/facebook/react-native/">React-Native</a> , <a href="https://github.com/grafana/grafana">Grafana Labs</a> , <a href="https://github.com/opencollective/opencollective">Open Collective</a>, <a href="https://developer.mozilla.org/en-US/">Mozilla (MDN)</a>
+<p><em>SDE-III (FRONTEND) ENGINEER </br>Open Source Contributor at <a href="https://github.com/facebook/react-native/">React-Native</a> , <a href="https://github.com/grafana/grafana">Grafana Labs</a> , <a href="https://github.com/opencollective/opencollective">Open Collective</a>, <a href="https://developer.mozilla.org/en-US/">Mozilla (MDN)</a>
 </em></p>
 
 [![Linkedin: sidverma32](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidverma32/)
