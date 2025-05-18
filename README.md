@@ -1,6 +1,6 @@
 <h2> Hi, I'm Siddharth Verma! <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/RiKyIqMC4vVGB9vkxl/giphy.gif" width="230">
-<p><em>SENIOR SOFTWARE ENGINEER (FRONTEND) @WALMART , BANGALORE </br>Open Source Contributor/Maintainer at <a href="https://stylelint.io"/>Stylelint</a>, Contributor at <a href="https://github.com/facebook/react-native/">React-Native</a> , <a href="https://github.com/grafana/grafana">Grafana Labs</a> , <a href="https://github.com/opencollective/opencollective">Open Collective</a>, <a href="https://developer.mozilla.org/en-US/">Mozilla (MDN)</a>.
+<p><em>SENIOR SOFTWARE ENGINEER (FRONTEND) WEB INFRA , BANGALORE </br>Open Source Contributor/Maintainer at <a href="https://stylelint.io"/>Stylelint</a>, Contributor at <a href="https://github.com/facebook/react-native/">React-Native</a> , <a href="https://github.com/grafana/grafana">Grafana Labs</a> , <a href="https://github.com/opencollective/opencollective">Open Collective</a>, <a href="https://developer.mozilla.org/en-US/">Mozilla (MDN)</a>.
 </em></p>
 
 Book Slot for any query here: https://topmate.io/sidverma
